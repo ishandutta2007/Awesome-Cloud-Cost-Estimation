@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Cost-Estimation"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Cost-Estimation?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Cost-Estimation"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Cost-Estimation?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Cost-Estimation/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Cost-Estimation?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Cost-Estimation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Cost-Estimation?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,7 +64,7 @@ The cloud cost estimation market spans **free native calculators** (AWS, Google,
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Infracost](https://github.com/infracost/infracost)** [![Stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)  
   **Cloud cost estimates for Terraform in pull requests**, Apache-2.0 licensed. **The leading open-source Shift-Left FinOps tool** — tracks **4 million prices** across AWS, Azure, and GCP. **Shows cost impact of IaC changes before merge** — when engineers see cost impact, they take action before money is spent . **Infracost AI** extends to **LLM cost modeling** — ingests provider billing, AI gateway data, and OpenTelemetry to build **what-if scenarios for switching to open-weight models** . **CLI, GitHub Actions, GitLab CI, VS Code, and JetBrains integrations**. Run **2,000,000+ times monthly** . 💰
